@@ -72,7 +72,6 @@ public class MainActivity extends AppCompatActivity {
         });
         refreshPostList();
 
-
 //        ParseObject testObject = new ParseObject("TestObject");
 //        testObject.put("foo", "bar");
 //        testObject.saveInBackground();
